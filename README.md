@@ -1,22 +1,24 @@
 <div align="center">
 
-# 🚀 INITIALIZING SYSTEM...
+# 🚀 INITIALIZING CLOUD SYSTEMS...
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  ██████╗██╗  ██╗██████╗ ██╗███████╗███╗   ██╗ ██████╗      │
-│ ██╔════╝██║  ██║██╔══██╗██║██╔════╝████╗  ██║██╔═══██╗     │
-│ ██║     ███████║██████╔╝██║███████╗██╔██╗ ██║██║   ██║     │
-│ ██║     ██╔══██║██╔══██╗██║╚════██║██║╚██╗██║██║   ██║     │
-│ ╚██████╗██║  ██║██║  ██║██║███████║██║ ╚████║╚██████╔╝     │
-│  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝      │
+│   ██████╗██╗  ██╗██████╗ ██╗███████╗                        │
+│  ██╔════╝██║  ██║██╔══██╗██║██╔════╝                        │
+│  ██║     ███████║██████╔╝██║███████╗                        │
+│  ██║     ██╔══██║██╔══██╗██║╚════██║                        │
+│  ╚██████╗██║  ██║██║  ██║██║███████║                        │
+│   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝                        │
 │                                                             │
-│         > FULL-STACK ENGINEER • TECH INNOVATOR              │
-│         > STATUS: BUILDING THE FUTURE                       │
+│    > CLOUD DATA ARCHITECT • MULTI-CLOUD SPECIALIST          │
+│    > STATUS: ENGINEERING DATA PIPELINES AT SCALE            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=WELCOME+TO+THE+MATRIX+%F0%9F%94%8B;SOFTWARE+ENGINEER+%7C+PROBLEM+SOLVER;BUILDING+TOMORROW'S+TECHNOLOGY+TODAY" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="600" alt="SpaceX Launch"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=WELCOME+TO+THE+DATA+UNIVERSE+%F0%9F%8C%8C;CLOUD+DATA+ARCHITECT+%7C+DATA+ENGINEER;BUILDING+SCALABLE+DATA+SOLUTIONS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/ChrisnoSan?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FF41)](https://github.com/ChrisnoSan)
 [![Profile Views](https://komarev.com/ghpvc/?username=ChrisnoSan&style=for-the-badge&color=00FF41&labelColor=000000)](https://github.com/ChrisnoSan)
@@ -29,49 +31,54 @@
 
 ## ⚡ MISSION CONTROL
 
-```ascii
-     ^
-    / \
-   /___\
-  |=   =|
-  |  S  |
-  |  P  |
-  |  A  |
-  |  C  |
-  |  E  |
-  |  X  |
- /|##!##|\
-/ |##!##| \
-  |##!##|
-  |##!##|
- .`-===-`.
-```
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Rocket"/>
 
 </div>
 
 ### 🎯 CURRENT OBJECTIVES
 
 ```python
-class Developer:
+class CloudDataArchitect:
     def __init__(self):
-        self.name = "Chrisno"
-        self.role = "Full Stack Engineer"
-        self.language_spoken = ["es_PE", "en_US"]
-        self.mission = "Building scalable solutions for tomorrow"
+        self.name = "Chris"
+        self.role = "Cloud Data Architect"
+        self.location = "Earth 🌍"
+        self.passion = ["Azure", "GCP", "AWS", "Databricks"]
+        self.mission = "Building enterprise-grade data platforms in the cloud"
     
-    def current_projects(self):
+    def get_cloud_expertise(self):
         return {
-            "learning": ["AI/ML", "Cloud Architecture", "Web3"],
-            "working_on": "Next-gen web applications",
-            "collaborating_on": "Open source innovation"
+            "cloud_platforms": {
+                "Azure": ["Synapse", "Data Factory", "Data Lake", "Fabric"],
+                "GCP": ["BigQuery", "Dataflow", "Composer", "Cloud Storage"],
+                "AWS": ["Redshift", "Glue", "EMR", "S3", "Athena"]
+            },
+            "data_platforms": ["Databricks", "Spark", "Delta Lake"],
+            "specialization": "Modern Data Architecture & Real-time Pipelines"
         }
     
+    def current_focus(self):
+        return [
+            "🔥 Designing lakehouse architectures",
+            "📊 Building real-time data pipelines",
+            "☁️ Multi-cloud data migration strategies",
+            "🤖 Implementing MLOps workflows",
+            "⚡ Optimizing data infrastructure at scale"
+        ]
+    
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's architect the future of data together 🚀")
 
-me = Developer()
+me = CloudDataArchitect()
 me.say_hi()
 ```
+
+**💡 What I'm currently working on:**
+- 🏗️ Designing multi-cloud data architectures
+- 📈 Building scalable ETL/ELT pipelines with Databricks
+- ☁️ Implementing data governance frameworks
+- 🔄 Real-time streaming data solutions
+- 📊 Optimizing cloud costs and performance
 
 ---
 
@@ -79,7 +86,38 @@ me.say_hi()
 
 <div align="center">
 
-### 🔥 CORE SYSTEMS
+### ☁️ CLOUD PLATFORMS
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br>GCP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/databricks-1.svg" width="48" height="48" alt="Databricks" />
+<br>Databricks
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="Spark" />
+<br>Spark
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48" height="48" alt="Kafka" />
+<br>Kafka
+</td>
+</tr>
+</table>
+
+### 💻 LANGUAGES & TOOLS
 
 <table>
 <tr>
@@ -88,27 +126,13 @@ me.say_hi()
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+<img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="Scala" />
+<br>Scala
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
+<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="48" height="48" alt="Airflow" />
+<br>Airflow
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
@@ -118,20 +142,39 @@ me.say_hi()
 <br>Kubernetes
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br>Terraform
 </td>
+</tr>
+</table>
+
+### 🗄️ DATABASES & STORAGE
+
+<table>
+<tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
 <br>MongoDB
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
+<br>Snowflake
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="48" height="48" alt="Elasticsearch" />
+<br>Elastic
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
 </td>
 </tr>
 </table>
@@ -185,17 +228,17 @@ me.say_hi()
 ---
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "The best way to predict the future is to invent it"  ║
-║                                    - Alan Kay            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Data is the new oil, and the cloud is the refinery"      ║
+║                                        - Chris, 2025         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-### ⚡ POWER LEVEL: OVER 9000!
+### ⚡ CLOUD POWER LEVEL: INFINITE ☁️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&text=SYSTEM%20OPERATIONAL&fontSize=30&fontColor=000000&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&text=DATA%20PIPELINE%20OPERATIONAL&fontSize=28&fontColor=000000&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -203,11 +246,11 @@ me.say_hi()
 
 <div align="center">
 
-**🔋 SYSTEM STATUS:** `FULLY OPERATIONAL` | **🌍 LOCATION:** `EARTH` | **☕ COFFEE LEVEL:** `MAXIMUM`
+**🔋 SYSTEM STATUS:** `FULLY OPERATIONAL` | **☁️ CLOUD REGION:** `MULTI-CLOUD` | **☕ COFFEE LEVEL:** `MAXIMUM`
 
 ```
-> Transmission complete. Stay curious, keep coding. 
-> End of line. _
+> Data transmission complete. Keep building, keep scaling. 
+> End of transmission. _
 ```
 
 </div>
