@@ -16,7 +16,7 @@
         └─────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="100" alt="SpaceX Launch"/>
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="SpaceX Launch"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=WELCOME+TO+THE+DATA+UNIVERSE+%F0%9F%8C%8C;CLOUD+DATA+ARCHITECT+%7C+DATA+ENGINEER;BUILDING+SCALABLE+DATA+SOLUTIONS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
@@ -31,7 +31,7 @@
 
 ## ⚡ MISSION CONTROL
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Rocket"/>
+<img src="https://media.giphy.com/media/xUA7aOJguK7dHAbWV2/giphy.gif" alt="Rocket"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 ```python
 class CloudDataArchitect:
     def __init__(self):
-        self.name = "Chris"
+        self.name = "Christian Noel Sanchez Huaman"
         self.role = "Cloud Data Architect"
         self.location = "Earth 🌍"
         self.passion = ["Azure", "GCP", "AWS", "Databricks"]
