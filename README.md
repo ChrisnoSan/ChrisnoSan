@@ -103,7 +103,7 @@ me.say_hi()
 <br>AWS
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/databricks-1.svg" width="48" height="48" alt="Databricks" />
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="48" height="48" alt="Databricks" />
 <br>Databricks
 </td>
 <td align="center" width="96">
@@ -130,7 +130,7 @@ me.say_hi()
 <br>Scala
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="48" height="48" alt="Airflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Airflow" />
 <br>Airflow
 </td>
 <td align="center" width="96">
