@@ -16,12 +16,12 @@
         └─────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300" alt="SpaceX Launch"/>
+<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="600" alt="SpaceX Launch"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=WELCOME+TO+THE+DATA+UNIVERSE+%F0%9F%8C%8C;CLOUD+DATA+ARCHITECT+%7C+DATA+ENGINEER;BUILDING+SCALABLE+DATA+SOLUTIONS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=WELCOME+TO+THE+DATA+UNIVERSE+%F0%9F%8C%8C;CLOUD+DATA+ARCHITECT+%7C+DATA+ENGINEER;BUILDING+SCALABLE+DATA+SOLUTIONS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/ChrisnoSan?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FF41)](https://github.com/ChrisnoSan)
-[![Profile Views](https://komarev.com/ghpvc/?username=ChrisnoSan&style=for-the-badge&color=00FF41&labelColor=000000)](https://github.com/ChrisnoSan)
+[![GitHub followers](https://img.shields.io/github/followers/ChrisnoSan?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=FFFFFF)](https://github.com/ChrisnoSan)
+[![Profile Views](https://komarev.com/ghpvc/?username=ChrisnoSan&style=for-the-badge&color=FFFFFF&labelColor=000000)](https://github.com/ChrisnoSan)
 
 </div>
 
@@ -187,10 +187,10 @@ me.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChrisnoSan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisnoSan&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChrisnoSan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisnoSan&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisnoSan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisnoSan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
 
 </div>
 
